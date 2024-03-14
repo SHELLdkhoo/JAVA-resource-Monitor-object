@@ -1,0 +1,5 @@
+@ECHO OFF
+D:
+CD "\INFORMACION\202X\38-SOFTWARE\2023\PROGRAMACION\JAVA\BIBLIOTECAS\MEMORY MONITOR"
+"C:\Program Files\Common Files\Oracle\Java\javapath\java.exe" MemoryMonitor
+PAUSE
